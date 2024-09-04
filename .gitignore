@@ -2,3 +2,6 @@ env
 .env
 Other_Projects
 venv
+__pycache__
+.idea
+.gitattributes
