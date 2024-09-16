@@ -4,6 +4,7 @@
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![openai](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=OpenAI&logoColor=white)
 
+---
 
 # DiscordBot The Firemind
 
